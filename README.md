@@ -2,7 +2,7 @@
 
 Project for https://chain.link/hackathon
 
-We know that data can be published on the immutable ledger using blockchain, but how can we publish a file
+We know that files can be published on the blockchain, but how can we publish a file
 1) with a verifiable timestamp
 2) without high transaction fees
 
