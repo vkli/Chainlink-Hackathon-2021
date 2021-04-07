@@ -23,5 +23,6 @@ Create a private blockchain. Call an oracle to compare blocktimes with Bitcoin/E
 
 ## Further Reading
 [ChainLink Youtube Channel](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
+
 [Chainlink Fireside Chat with DocuSign Founder Tom Gonser](https://youtu.be/SZ3iy_jYFS4)
 
