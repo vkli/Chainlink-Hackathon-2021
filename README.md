@@ -19,7 +19,7 @@ Encode the data on the blockchain as part of a transaction. However this incurs 
 
 ## Proposed Method
 
-Create a private blockchain. Call an oracle to compare blocktimes with Bitcoin/Ethereum blocktimes or NIST clocktime for verification. Publish the encoded file on the private blockchain!
+Create a private blockchain. Call an oracle to compare blocktimes with Bitcoin/Ethereum blocktimes or Google clocktime for verification. Publish the encoded file on the private blockchain!
 
 ## Further Reading
 [ChainLink Youtube Channel](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
