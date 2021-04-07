@@ -5,6 +5,7 @@ Project for https://chain.link/hackathon
 We know that files can be published on the blockchain, but how can we publish a file
 1) with a verifiable timestamp
 2) without high transaction fees
+3) while preserving privacy
 
 on the immutable ledger?
 
@@ -14,8 +15,13 @@ One way is to put the timestamp on the document:
 Word files, pdf files, (in-app) keybase files, etc. have a timestamp of when the document was created/uploaded and when it was modified. However this is not verifiable.
 
 Another way is to put the document on the timestamp: 
-Encode the data on the blockchain as part of a transaction. However this incurs high transaction fees.
+Encode the data on the blockchain as part of a transaction. However this incurs high transaction fees and is not private.
 
 ## Proposed Method
 
-Create a private network to avoid high transaction fees. Call an oracle to compare blocktimes with Bitcoin or Ethereum blocktimes for verification. Publish the encoded article on the private network!
+Create a private blockchain. Call an oracle to compare blocktimes with Bitcoin/Ethereum blocktimes or NIST clocktime for verification. Publish the encoded file on the private blockchain!
+
+## Further Reading
+[ChainLink Youtube Channel](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
+[Chainlink Fireside Chat with DocuSign Founder Tom Gonser](https://youtu.be/SZ3iy_jYFS4)
+
