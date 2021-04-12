@@ -1,4 +1,4 @@
-NOTE: If code doesn't load, view at https://nbviewer.jupyter.org/github.com/vkli/Chainlink-Hackathon-2021/blob/main/Untitled.ipynb
+NOTE: If code doesn't load, view at https://nbviewer.jupyter.org/github/vkli/Chainlink-Hackathon-2021/blob/main/Untitled.ipynb
 
 # Timestamp Files with Oracles
 
